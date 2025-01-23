@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
 
 # Articles          
 2024 [Countries with Free Education For International Students (2024)](https://erudera.com/resources/countries-with-free-education-for-international-students/) /Europe/            
-https://www.reddit.com/r/MapPorn/search/?q=Countries+with+completely+free+%28%240+tuition+fees%29+university+education
+https://www.reddit.com/r/MapPorn/search/?q=Countries+with+completely+free+%28%240+tuition+fees%29+university+education                       
 [reddit-MP: Countries with tuition-free post-secondary (ie college) education](https://www.reddit.com/r/MapPorn/comments/enwmwx/countries_with_tuitionfree_postsecondary_ie/)          
 [reddit-MP: Countries and jurisdictions with free college education](https://www.reddit.com/r/MapPorn/comments/64h4hr/countries_and_jurisdictions_with_free_college/)            
 
