@@ -2,6 +2,7 @@
 https://en.wikipedia.org/wiki/Category:Education              
 https://en.wikipedia.org/wiki/Category:Education_by_subject                      
 https://en.wikipedia.org/wiki/Category:Education_by_subject_and_country          
+**https://en.wikipedia.org/wiki/Free_education**          
 
 https://en.wikipedia.org/wiki/Category:Universities_and_colleges_by_subject_and_country                                   
 https://en.wikipedia.org/wiki/Category:Universities_and_colleges_by_subject                 
@@ -27,15 +28,18 @@ https://github.com/arnaudbenard/university-ranking
 https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
 
 # Articles          
+<details>
+  <summary>Others</summary>   
+
+https://duckduckgo.com/?t=h_&q=+Countries+with+free+higher+education+for+foreigners&ia=web                 
+2024 **https://worldpopulationreview.com/country-rankings/countries-with-free-college**
 2024 [Countries with Free Education For International Students (2024)](https://erudera.com/resources/countries-with-free-education-for-international-students/) /Europe/            
 https://www.reddit.com/r/MapPorn/search/?q=Countries+with+completely+free+%28%240+tuition+fees%29+university+education                       
 [reddit-MP: Countries with tuition-free post-secondary (ie college) education](https://www.reddit.com/r/MapPorn/comments/enwmwx/countries_with_tuitionfree_postsecondary_ie/)          
 [reddit-MP: Countries and jurisdictions with free college education](https://www.reddit.com/r/MapPorn/comments/64h4hr/countries_and_jurisdictions_with_free_college/)            
+2020 **[Which Countries Provide Free Education At A University Level?](https://www.theedadvocate.org/which-countries-provide-free-education-at-a-university-level/)**           
 
 ## RUS
-<details>
-  <summary>Others</summary>   
-  
 2025 [Страны с бесплатным высшим образованием в 2025 году](https://visasam.ru/emigration/ucheba/strany-s-besplatnym-vysshim-obrazovaniem.html) /Europe/                       
 2024 [38 Free Education Countries For International Students 2024](https://studenthint.com/free-education-countries-for-students/)  /Europe/                                
 
