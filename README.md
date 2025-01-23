@@ -33,4 +33,4 @@ https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
   <summary>Others</summary>   
 2025 [Страны с бесплатным высшим образованием в 2025 году](https://visasam.ru/emigration/ucheba/strany-s-besplatnym-vysshim-obrazovaniem.html)          
 2023 [Топ-15 стран с бесплатным образованием для иностранных студентов](https://worldscholarshub.com/ru/free-education-countries-for-international-students/)       
-</details>details>
+</details>
