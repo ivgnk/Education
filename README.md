@@ -68,3 +68,29 @@ https://www.reddit.com/r/MapPorn/search/?q=Countries+with+completely+free+%28%24
 
 2023 [Топ-15 стран с бесплатным образованием для иностранных студентов](https://worldscholarshub.com/ru/free-education-countries-for-international-students/)       
 </details>
+
+# 💥 Messengers                  
+## Сравнение
+https://en.wikipedia.org/wiki/Instant_messaging                      
+https://en.wikipedia.org/wiki/LAN_messenger                    
+https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients                              
+https://en.wikipedia.org/wiki/Comparison_of_LAN_messengers                
+https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols                
+https://web.archive.org/web/20130426082122/http://ru.wikipedia.org/wiki/Сравнение_мессенджеров                     
+
+2025 ТОП 10 безопасных мессенджеров в 2025 году -  Signal, Threema, Wickr Me, Element, Session                
+https://gemspace.com/ru/blog/top-x-bezopasnyh-messendzherov               
+2024 Сравнительный обзор защищенных мессенджеров - Signal, Mixin, SimplexChat, Threema, Wickr Me, Wire
+https://www.securitylab.ru/blog/personal/SimlpeHacker/354153.php
+
+**Свободные и безопасные инструменты общения**             
+https://www.youtube.com/watch?v=eVo-jZo_86U                             
+
+## Описания              
+Delta Chat                     
+https://www.youtube.com/watch?v=gT38FfOXv1E         
+
+Session           
+Свободное и безопасное общение с помощью Session             
+https://www.youtube.com/watch?v=qJ4wTEMaW_s             
+Свободное и безопасное общение с помощью Session
